@@ -9,6 +9,12 @@ This project is based on [Brad Traversy's](https://www.youtube.com/user/TechGuyW
 ```bash
 # Install dependencies
 npm install
+
+# Serve on localhost:3000
+npm start
+
+# Build for production
+npm run build
 ```
 
 ## App Info
